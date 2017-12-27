@@ -6,5 +6,5 @@
 
 import cv2
 
-def ColorChange(img):
-    
+def ColorGray(img):
+    cv2.()
